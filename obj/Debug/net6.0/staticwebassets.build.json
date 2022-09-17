@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6Cb3O49YYUCARkKGV7mkHvTlhePhp6yu8wUYkOfbxz4=",
+  "Source": "mikemd-heroku-test",
+  "BasePath": "_content/mikemd-heroku-test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
